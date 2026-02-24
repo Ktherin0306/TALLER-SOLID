@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NotificationHistory
+comment1.params=
+comment1.target=NotificationHistory()
+comment2.params=notification
+comment2.target=void\ save(Notification)
+numComments=3

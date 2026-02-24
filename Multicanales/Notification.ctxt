@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Notification
+comment1.params=message\ user
+comment1.target=Notification(java.lang.String,\ User)
+comment2.params=
+comment2.target=java.lang.String\ getMessage()
+comment3.params=
+comment3.target=User\ getUser()
+numComments=4

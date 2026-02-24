@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=ServicioEmail
-comment1.params=destino\ mensaje
-comment1.target=void\ enviarEmail(java.lang.String,\ java.lang.String)
-numComments=2

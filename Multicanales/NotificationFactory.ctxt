@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NotificationFactory
+comment1.params=type
+comment1.target=NotificationChannel\ createChannel(java.lang.String)
+numComments=2

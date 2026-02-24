@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NotificationService
+comment1.params=channel
+comment1.target=NotificationService(NotificationChannel)
+comment2.params=notification
+comment2.target=void\ send(Notification)
+numComments=3
